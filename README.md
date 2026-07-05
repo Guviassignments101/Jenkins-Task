@@ -39,6 +39,8 @@ Step 7:  Create Sample Java Project verify
 Step 8: Create a freestyle job in java and build using Jenkins 
 <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/7f9006c3-7134-418e-b545-ac4d4a2f0172" />
 <img width="1912" height="786" alt="image" src="https://github.com/user-attachments/assets/75af43bc-c778-4b09-a49f-178296b13da2" />
+<img width="1911" height="720" alt="image" src="https://github.com/user-attachments/assets/dc739462-3270-436a-b1a4-50616ad59735" />
+
 
 
 
