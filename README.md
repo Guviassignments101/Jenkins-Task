@@ -29,7 +29,7 @@ Step 5: Create Jenkins Users
 
 
 Step 6: Install java and maven
-<img width="1902" height="787" alt="image" src="https://github.com/user-attachments/assets/e7af7b96-3cfe-4a49-898e-e95b66b645e2" />
+<img width="1916" height="103" alt="image" src="https://github.com/user-attachments/assets/3e15a5bb-3f1f-4a70-a63a-98b23eb22dd8" />
 
 Step 7:  Create Sample Java Project verify 
 <img width="1893" height="173" alt="image" src="https://github.com/user-attachments/assets/35483816-0764-4e14-b897-69bd5d0a6cfc" />
